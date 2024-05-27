@@ -1,0 +1,96 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/purulent-acute-bronchitis-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/acute-bronchitis-primary-care-rhinovirus---primary.py
+inputModule4:
+  class: File
+  path: python/acute-bronchitis-primary-care-influenzae---primary.py
+inputModule5:
+  class: File
+  path: python/acute-bronchitis-primary-care-mycoplasma---primary.py
+inputModule6:
+  class: File
+  path: python/acute-bronchitis-primary-care-bronchiolitis---primary.py
+inputModule7:
+  class: File
+  path: python/syncytial-acute-bronchitis-primary-care---primary.py
+inputModule8:
+  class: File
+  path: python/pseudomembranous-acute-bronchitis-primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/acute-bronchitis-primary-care-echovirus---primary.py
+inputModule10:
+  class: File
+  path: python/infective-acute-bronchitis-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/bacterial-acute-bronchitis-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/echoviral-acute-bronchitis-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/acute-bronchitis-primary-care-specified---primary.py
+inputModule14:
+  class: File
+  path: python/wheezy-acute-bronchitis-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/acute-bronchitis-primary-care-infection---primary.py
+inputModule16:
+  class: File
+  path: python/acute-bronchitis-primary-care-organism---primary.py
+inputModule17:
+  class: File
+  path: python/coxsackieviral-acute-bronchitis-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/croupous-acute-bronchitis-primary-care---primary.py
+inputModule19:
+  class: File
+  path: python/fibrinous-acute-bronchitis-primary-care---primary.py
+inputModule20:
+  class: File
+  path: python/streptococcal-acute-bronchitis-primary-care---primary.py
+inputModule21:
+  class: File
+  path: python/chlamydial-acute-bronchitis-primary-care---primary.py
+inputModule22:
+  class: File
+  path: python/acute-bronchitis-primary-care-catarrhal---primary.py
+inputModule23:
+  class: File
+  path: python/pneumococcal-acute-bronchitis-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/acute-bronchitis-primary-care-chest---primary.py
+inputModule25:
+  class: File
+  path: python/acute-bronchitis-primary-care-tracheobronchitis---primary.py
+inputModule26:
+  class: File
+  path: python/chemical-acute-bronchitis-primary-care---primary.py
+inputModule27:
+  class: File
+  path: python/acute-bronchitis-primary-care-pneumonitis---primary.py
+inputModule28:
+  class: File
+  path: python/acute-bronchitis-primary-care-pneumoniae---primary.py
+inputModule29:
+  class: File
+  path: python/acute-bronchitis-primary-care-aspergillus---primary.py
+inputModule30:
+  class: File
+  path: python/acute-bronchitis-primary-care-history---primary.py
+inputModule31:
+  class: File
+  path: python/acute-bronchitis-primary-care-moraxella---primary.py
+inputModule32:
+  class: File
+  path: python/output-cases.py
